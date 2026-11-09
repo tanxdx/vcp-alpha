@@ -1,4 +1,4 @@
-import json
+﻿import json
 import glob
 from pathlib import Path
 import math
@@ -186,7 +186,7 @@ def analyze_and_build_dual_report():
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>趙阿瑋要賺爆了</title>
+<title>別人恐懼，我貪婪</title>
 <style>
     * {{ box-sizing: border-box; -webkit-tap-highlight-color: transparent; }}
     
@@ -960,7 +960,7 @@ def analyze_and_build_dual_report():
 
 <div class="header-area">
     <div style="display:flex; align-items:center; gap:8px;">
-        <h1>🚀 奇鋐我大哥 </h1>
+        <h1>🚀 別人恐懼，我貪婪 </h1>
     </div>
     
     <div class="theme-switch-group">
